@@ -59,7 +59,6 @@ public class Main {
             int mashaSalary = 67_760;
             int denisSalary = 83_690;
             int kristinaSalary = 76_230;
-
             int increasingPercent = 10;
             float increaseMultiplier = 1 + (increasingPercent / 100f);
 
